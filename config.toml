@@ -1,7 +1,7 @@
 baseurl = "https://www.uscew.com" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "USCEW"
 theme = "hugo-universal-theme"
-themesDir = "../themes"
+themesDir = "themes"
 languageCode = "tr"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "tr"
