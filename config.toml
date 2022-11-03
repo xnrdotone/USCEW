@@ -1,4 +1,4 @@
-baseurl = "https://www.uscew.com" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://xnrdotone.github.io/USCEW/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "USCEW"
 theme = "hugo-universal-theme"
 themesDir = "themes"
