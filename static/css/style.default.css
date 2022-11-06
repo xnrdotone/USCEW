@@ -1,6 +1,7 @@
 /* Themed colors */
 :root {
-  --primary-accent: #38a7bb;
+/*   --primary-accent: #38a7bb; */
+  --primary-accent: #b32daa;
   --navbar-border-top: #20616d;
   --button-border: #2a7d8c;
   --link-focus: #267280;
