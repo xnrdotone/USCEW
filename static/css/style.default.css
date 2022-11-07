@@ -1978,7 +1978,7 @@ fieldset[disabled] .btn-template-primary.active {
   line-height: 15px;
 }
 #map {
-  height: 300px;
+  height: 0px;
 }
 #map.with-border {
   border-top: solid 1px var(--primary-accent);
